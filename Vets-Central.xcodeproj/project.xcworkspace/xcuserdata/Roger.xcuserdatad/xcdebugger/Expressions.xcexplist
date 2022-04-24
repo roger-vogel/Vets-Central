@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "VCApptDocumentView.reloadDocumentTable():VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicEntity.clinicRecordWith(name:):VCEntities.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeLoginView.userAppointmentLoadStatus(json:status:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptWebView.setupOverlays():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIDevice().type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCRefreshServices.refreshComplete():VCRefreshServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+            <PersistentString
+               value = "refreshData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.getClinicsNear(long:lat:radius:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicEntity.doctorIndexWith(uid:):VCEntities.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptWebView.incrementTimer():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "elapsedSeconds!">
+            </PersistentString>
+            <PersistentString
+               value = "_ = VCKeychainServices().writeData(data: elapsedSeconds!, withKey: &quot;elapsedTime&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDateServices.isValidApptTime(apptDate:):VCDateServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "components.hour">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.createAppointment(theApptData:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.textFieldShouldBeginEditing(_:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField">
+            </PersistentString>
+            <PersistentString
+               value = "dateTextField">
+            </PersistentString>
+            <PersistentString
+               value = "datePickerStarted">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCFileServices.createFile(theContents:name:):VCFileServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlPath.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCApptWebView.getVideoCredentials():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "elapsedSeconds!">
+            </PersistentString>
+            <PersistentString
+               value = "Date().timeIntervalSinceNow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.displayDocument(index:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docXferData[index].localURL">
+            </PersistentString>
+            <PersistentString
+               value = "docXferData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicRecord.isValidAppointmentTime(_:):VCStructures.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "startDateAndTime.timeNumeric">
+            </PersistentString>
+            <PersistentString
+               value = "endDateAndTime.timeNumeric">
+            </PersistentString>
+            <PersistentString
+               value = "apptTime.timeNumeric">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCMapView.findOtherClinics():VCMapView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCEventServices.alertIfAppointmentTime(apptIndex:):VCEventServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.currentAppointments[apptIndex].startHasBeenIssued">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentInformationView.datePickerValueChanged(_:):VCAppointmentInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "apptStatus.date!.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.tableView(_:numberOfRowsInSection:):VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController.petController.selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicInformationView.televetButtonTapped(_:):VCClinicInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theClinicRecord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetUpLoadFormView.tableView(_:cellForRowAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "documentTableView.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptDocumentView.setLinkFlag(withFileID:toState:):VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicInformationView.callButtonTapped(_:):VCClinicInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(phoneNumber!.partial(fromIndex: 0, length: 3))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.appointmentRequestResponse(json:webServiceSuccess:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "localAppointmentRecord">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.user.currentAppointments">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.clinicDetailsLoadResponse(json:webServiceSuccess:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginServices.clinicLoadResponse(json:webServiceSuccess:):VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.tableView(_:didSelectRowAt:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "clinicsWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "selectedAppointment">
+            </PersistentString>
+            <PersistentString
+               value = "apptInformationView.selectedClinicWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "webServices.apiDiagnostics.jsonSent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.previewController(_:previewItemAt:):VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedDocument">
+            </PersistentString>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+            <PersistentString
+               value = "docMetadata[selectedDocument].localURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicRecord.scheduleString.getter:VCStructures.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "clinicName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicEntity.doctorIndexWith(clinicUID:doctorUID:):VCEntities.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicInformationView.setClinicInfo(mapItem:):VCClinicInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapItem.name!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetUpLoadFormView.initForm(parent:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "documentTableView.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetUpLoadFormView.tableView(_:didSelectRowAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "x.localURL.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAccountViewController.saveKeychainSettings():VCAccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicRecord.isMember(nam:lat:lng:):VCDBStructure.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.getDocumentsMetaData():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController!.selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptWebView.calculateHoursAndMinutes():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "elapsedMinutes!">
+            </PersistentString>
+            <PersistentString
+               value = "elapsedSeconds!">
+            </PersistentString>
+            <PersistentString
+               value = "elapsedHours!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.getAllPets(callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCUpLoadFormView.uploadResponse(json:status:):VCUpLoadForm.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.getClinicList(atDistance:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "atDistance">
+            </PersistentString>
+            <PersistentString
+               value = "currentLat">
+            </PersistentString>
+            <PersistentString
+               value = "c.clinicName">
+            </PersistentString>
+            <PersistentString
+               value = "currentLng">
+            </PersistentString>
+            <PersistentString
+               value = "distance">
+            </PersistentString>
+            <PersistentString
+               value = "clinicsWithinDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.clinicLoadResponse(json:status:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vcGlobalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.plusButtonTapped(_:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapViewController.mapView(_:didSelect:):VCMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapItem.isCurrentLocation">
+            </PersistentString>
+            <PersistentString
+               value = "selectedMapItem">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+            <PersistentString
+               value = "isVCClinic">
+            </PersistentString>
+            <PersistentString
+               value = "view.annotation!.title!!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicEntity.isVCMember(clinicName:latitude:longitude:):VCEntities.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCAccountViewController.setSwitches():VCAccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCDocumentsManager.getPetDocMetadata(callBack:):VCDataServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCRefreshServices.appointmentLoadResponse(json:webServiceSuccess:):VCRefreshServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentInformationView.getNextAppointment():VCAppointmentInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nextAvailableAppt!.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentsManager.getPetDocuments(callBack:):VCDataServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "counter">
+            </PersistentString>
+            <PersistentString
+               value = "theMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentFormView.handleAppointmentPicker(requestType:theSelection:):VCAppointmentViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCEventServices.issueReminders():VCEventServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.currentAppointments[index].upComingHasIssued">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in VCApptWebView.initiateConsultation():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "VCKeychainServices().readString(withKey: &quot;conferenceURL&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentInformationView.textFieldShouldBeginEditing(_:):VCAppointmentInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "datePickerStarted">
+            </PersistentString>
+            <PersistentString
+               value = "nextDate!.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentViewController.tableView(_:cellForRowAt:):VCAppointmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.clinicNameLabel.text!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.getUser(theUserCredentials:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCDateServices.appointmentWindowIsOpen(theAppointment:):VCDateServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "timeInterval.duration">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in VCApptDocumentView.loadDocuments():VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentView.tableView(_:cellForRowAt:):VCDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pets[self.parentController.selectedPet!].docMetadata[indexPath.row].fileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentView.reloadDocumentTable():VCDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pets[self.parentController.selectedPet!].docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginServices.getClinicDetails(counter:):VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentInformationView.setClinicDoctors():VCAppointmentInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedClinicWithinDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.loginPageButtonTapped(_:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCApptDocumentView.loadDocuments():VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentController()!.petController().selectedPet">
+            </PersistentString>
+            <PersistentString
+               value = "self.docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapView.findClinics(mapRegion:atLocale:):VCClinicMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.setClinicDoctors():VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedClinicWithinDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentView.tableView(_:numberOfRowsInSection:):VCDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subClassType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentDocumentView.setLinkedState(indexPath:):VCAppointmentDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.currentAppointments">
+            </PersistentString>
+            <PersistentString
+               value = "changedLinks">
+            </PersistentString>
+            <PersistentString
+               value = "parentController.selectedAppointment!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCUpLoadFormView.upLoadResponse(json:status:):VCUpLoadForm.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptWebView.onHangup():VCApptWebView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "VCKeychainServices().readDouble(withKey: &quot;conferenceURL&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicEntity.isVCMember(latitude:longitude:):VCEntities.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginFormView.userCreateResponse(json:status:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapViewController.mapViewDidFinishLoadingMap(_:):VCMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapViewController.getMapItem(annotation:):VCMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapItem.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetUpLoadFormView.getServerDocument(index:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCPetDocumentView.downloadMetadata():VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pets[self.parentController.petController.selectedPet].docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.uploadPetPhoto(thePetRecord:thePetImage:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginServices.appointmentLoadResponse(json:webServiceSuccess:):VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+            <PersistentString
+               value = "appointmentRecord.startDate.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetsViewController.collectionView(_:didSelectItemAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.pickerView(_:didSelectRow:inComponent:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scheduleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapViewController.showLocationDetails():VCMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theClinicRecord">
+            </PersistentString>
+            <PersistentString
+               value = "isVCClinic">
+            </PersistentString>
+            <PersistentString
+               value = "selectedMapItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.viewDidLoad():VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.webServiceQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginFormView.userLoginResponse(json:status:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.postErrorToServer():VCWebServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "apiDiagnostics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMessageServices.saveMessages():VCMessageServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theMessages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.downloadDocument(index:):VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.localDocumentPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeLoginView.returnToLogin():VCHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentView.downloadMetadata():VCDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pets[parentController.selectedPet!]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.executeDataTask(withRequest:withCallBack:):VCWebServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.webServiceQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentsManager.getPetDocument(someMetadata:callBack:):VCDocumentsManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "someMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.tableView(_:cellForRowAt:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "apptData!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClientEntity.evaluateUserClinicWith(name:):VCEntities.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginFormView.petLoadResponse(json:status:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCLoginServices.getClinicDetails(counter:):VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics[counter].startTimeComponents.hour!">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.clinics[counter]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.reloadAppointmentTable():VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pastAppointments.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCKeychainServices.readKeychain():VCKeychainServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.messageService">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "implicit closure #2 in implicit closure #1 in VCLoginFormView.userLoginResponse(json:status:):VCHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCRefreshServices.checkForChanges():VCRefreshServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "refreshAppointment!.startDate.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "newTimeUIDs">
+            </PersistentString>
+            <PersistentString
+               value = "a.startDate.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginServices.clinicLoadResponse(json:status:):VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "localData!.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.submitButtonTapped(_:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "localAppointmentRecord.clinicUID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDocumentManagementView.uploadResponse(json:status:):VCDocumentManagementView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url.absoluteString">
+            </PersistentString>
+            <PersistentString
+               value = "url.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.setupAppointmentData():VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "clinicsWithinDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginServices.loginComplete():VCLoginServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.user.currentAppointments.first!.startDate.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCRefreshServices.getClinicDetails():VCRefreshServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "refreshData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetUpLoadFormView.petDocumentsRequestResponse(json:status:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "duplicateDocument">
+            </PersistentString>
+            <PersistentString
+               value = "url!.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "|!===| infix(_:_:):VCOperators.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lhs.dateAndTimeNumeric">
+            </PersistentString>
+            <PersistentString
+               value = "rhs.dateAndTimeNumeric">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentFormView.setClinicDoctors():VCAppointmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+            <PersistentString
+               value = "vcGlobalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCDocumentView.downloadMetadata():VCDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.pets[self.parentController.selectedPet!].docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.setAppointmentInfo():VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedClinicWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "localAppointmentRecord.clinicDistance">
+            </PersistentString>
+            <PersistentString
+               value = "localAppointmentRecord">
+            </PersistentString>
+            <PersistentString
+               value = "parentController.appointmentController.clinicsWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.createUser(theUserCredentials:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptDocumentView.tableView(_:cellForRowAt:):VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+            <PersistentString
+               value = "docMetadata[indexPath.row].fileName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDataFormView.handleSwipes(_:):VCDataFormView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "swipeInForm">
+            </PersistentString>
+            <PersistentString
+               value = "slideType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetInformationView.swipeInFormWillShow():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCPetDocumentView.getServerDocument(index:):VCPetsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in VCDocumentsManager.uploadPetDocumentFor(petUID:urls:callBack:):VCDocumentsManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in VCApptDocumentView.loadDocuments():VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.tableView(_:didSelectRowAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docXferData[indexPath.row].localURL">
+            </PersistentString>
+            <PersistentString
+               value = "parentController!.selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicInformationView.setClinicInfo(clinicRecord:):VCClinicInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cityLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "String(countryCode!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCPetDocumentView.loadDocuments():VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.docMetadata">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.user.pets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.getDatePickerInfo():VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController.appointmentController.clinicsWithinDistance[selectedClinicWithinDistance].clinicSchedule">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginFormView.loginButtonTapped(_:):VCLoginFormView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user.data.userEmail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLinkedDocumentView.setCellImage(indexPath:):VCLinkedDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata[indexPath.row].isLinked">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCPetDocumentView.getServerDocuments():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetaData">
+            </PersistentString>
+            <PersistentString
+               value = "downloadCounter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentViewController.getClinicList(atDistance:):VCAppointmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vcGlobalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptViewController.getClinicsWithinDistance(atDistance:):VCApptViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLat">
+            </PersistentString>
+            <PersistentString
+               value = "atDistance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.displayDocument():VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata[selectedDocument].localURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in VCHomeViewController.loginPageButtonTapped(_:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.clearView():VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController()!.appointmentController().clinicsWithinDistance[selectedClinicWithinDistance].clinicName">
+            </PersistentString>
+            <PersistentString
+               value = "distanceSlider.value">
+            </PersistentString>
+            <PersistentString
+               value = "parentController()!.appointmentController().clinicsWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.user.data.mapClinicUID">
+            </PersistentString>
+            <PersistentString
+               value = "value.clinicUID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "implicit closure #2 in implicit closure #1 in VCHomeLoginView.loginResult(json:status:):VCHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.textFieldDidBeginEditing(_:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedClinicWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "parentController()!.appointmentController().clinicsWithinDistance">
+            </PersistentString>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.returnButtonTapped(_:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "vcGlobalData.vcUser.pets[0].docsAreDownloaded">
+            </PersistentString>
+            <PersistentString
+               value = "parentController!.selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetInformationFormView.validateFields():VCPetsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCScheduleManager.getTimeSpan(span:):VCScheduleManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "fromTime.hour!">
+            </PersistentString>
+            <PersistentString
+               value = "toTime.hour!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAPITranslator.formatForCreateAppt(apptRecord:):VCAPITranslator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "clinicRecord!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.doUpLoad(url:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController!.selectedPet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapViewController.getDirections():VCMapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theClinicRecord">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.isErrorFree(json:status:showAlert:):VCWebServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theParentController">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.flags.loginState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeLoginView.petLoadStatus(json:status:):VCHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.createUser(theUserCredentials:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.setBadges(clear:):VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.uploadPetDocument(thePetRecord:theFileType:theFileData:theName:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.showUpcomingAppointments():VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nextAppointmentDate.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "appt.startDate.dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCClinicRecord.nextValidApptTime.getter:VCStructures.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nextSlot.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "startTime.timeNumeric">
+            </PersistentString>
+            <PersistentString
+               value = "currentTime">
+            </PersistentString>
+            <PersistentString
+               value = "nextSlot.timeNumeric">
+            </PersistentString>
+            <PersistentString
+               value = "endTime.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "startTime.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "clinicSchedule">
+            </PersistentString>
+            <PersistentString
+               value = "currentTime.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "currentTime.dateComponents.weekday!">
+            </PersistentString>
+            <PersistentString
+               value = "endTime.timeNumeric">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentInformationView.appointmentRescheduleResponse(json:status:):VCAppointmentInformationView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetInformationView.swipeInFormDidOccur():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vcGlobalData.vcUser.pets[0]">
+            </PersistentString>
+            <PersistentString
+               value = "(theParent! as! VCPetsViewController).selectedPet">
+            </PersistentString>
+            <PersistentString
+               value = "thePetRecord">
+            </PersistentString>
+            <PersistentString
+               value = "slideInDidOccur">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.manageKeychain():VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDate.nextAppointmentSlot(withSegments:):VCDate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nextTimeSlot.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "newSlot.dateAndTimeString">
+            </PersistentString>
+            <PersistentString
+               value = "dateAndTimeString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.executeDataTask(withRequest:withCallBack:):VCWebServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.webServiceQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCPetDocumentView.getServerDocument():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docXferData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCWebServices.getUser(theUserCredentials:callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetsViewController.previewController(_:previewItemAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "petDocumentView.docXferData">
+            </PersistentString>
+            <PersistentString
+               value = "docXferData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in VCWebServices.getClinics(callBack:):VCWebServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCDateServices.isValidApptTime(dateComponents:):VCDateServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateComponents.day">
+            </PersistentString>
+            <PersistentString
+               value = "dateComponents.weekday">
+            </PersistentString>
+            <PersistentString
+               value = "components.day">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentDocumentView.returnButtonTapped(_:):VCAppointmentDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "changedLinks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCApptInformationView.televetButtonTapped(_:):VCApptInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parentController.appointmentController.selectedAppointment">
+            </PersistentString>
+            <PersistentString
+               value = "globalData.user.currentAppointments">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCGlobalData.numClinicsNearUser():VCGlobalData.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "c">
+            </PersistentString>
+            <PersistentString
+               value = "location.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAccountViewController.updateUserResponse(json:status:):VCAccountViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.previewController(_:previewItemAt:):VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docXferData[selectedDocument].localURL">
+            </PersistentString>
+            <PersistentString
+               value = "nsurl.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCRecordGetter.clinicIndexInSubArray(clinicUID:subArray:):VCRecordGetter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCRefreshServices.clinicLoadResponse(json:webServiceSuccess:):VCRefreshServices.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.getServerDocuments():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetaData">
+            </PersistentString>
+            <PersistentString
+               value = "parentController!.selectedPet">
+            </PersistentString>
+            <PersistentString
+               value = "downloadCounter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCDateServices.isValidApptTime(apptDate:clinic:):VCDateServices.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "apptComponents.hour!">
+            </PersistentString>
+            <PersistentString
+               value = "clinic.clinicSchedule">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.tableView(_:accessoryButtonTappedForRowWith:):VCPetDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCLoginFormView.userLoadResponse(json:status:):VCHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCPetDocumentView.displayDocument():VCPetsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "docXferData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCPetInformationView.personalizeFormLabels(petName:):VCPetInformationView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "petInfoTitleLabel.text!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCAppointmentFormView.setAppointmentInfo(withIndex:):VCAppointmentViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "VCApptDocumentView.setCellImage(indexPath:):VCApptDocumentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageLinkedFile">
+            </PersistentString>
+            <PersistentString
+               value = "docMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCMapView.showVCClinics():VCMapView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData.clinics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VCHomeViewController.setHomePageUIElements():VCHomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "globalData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
